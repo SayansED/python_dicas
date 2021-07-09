@@ -25,3 +25,11 @@
 </br>
 
 ![sexta](https://github.com/SayansED/python_dicas/blob/main/6.png)
+
+
+</br>
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/sayansed/sayansed" alt="Visitors badge" />
+   </a>
+</p>
