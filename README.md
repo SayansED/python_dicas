@@ -6,19 +6,19 @@
 <h2>Dicas para quem está começando a desenvolver em Python ou já é um dev.</h2>
 
 <br>
-![01](https://github.com/SayansED/python_dicas/blob/main/1.png)
+![primeira](https://github.com/SayansED/python_dicas/blob/main/1.png)
 
 <br>
-![02](https://github.com/SayansED/python_dicas/blob/main/2.png)
+![segunda](https://github.com/SayansED/python_dicas/blob/main/2.png)
 
 <br>
-![03](https://github.com/SayansED/python_dicas/blob/main/3.png)
+![terceira](https://github.com/SayansED/python_dicas/blob/main/3.png)
 
 <br>
-![04](https://github.com/SayansED/python_dicas/blob/main/4.png)
+![quarta](https://github.com/SayansED/python_dicas/blob/main/4.png)
 
 <br>
-![05](https://github.com/SayansED/python_dicas/blob/main/5.png)
+![quinta](https://github.com/SayansED/python_dicas/blob/main/5.png)
 
 <br>
-![06](https://github.com/SayansED/python_dicas/blob/main/6.png)
+![sexta](https://github.com/SayansED/python_dicas/blob/main/6.png)
