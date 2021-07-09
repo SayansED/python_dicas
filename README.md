@@ -1,6 +1,3 @@
-# python_dicas
-
-
 # Python 
 
 <h2>Dicas para quem está começando a desenvolver em Python ou já é um dev.</h2>
