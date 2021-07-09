@@ -5,20 +5,20 @@
 
 <h2>Dicas para quem está começando a desenvolver em Python ou já é um dev.</h2>
 
-<br>
+</br>
 ![primeira](https://github.com/SayansED/python_dicas/blob/main/1.png)
 
-<br>
+</br>
 ![segunda](https://github.com/SayansED/python_dicas/blob/main/2.png)
 
-<br>
+</br>
 ![terceira](https://github.com/SayansED/python_dicas/blob/main/3.png)
 
-<br>
+</br>
 ![quarta](https://github.com/SayansED/python_dicas/blob/main/4.png)
 
-<br>
+</br>
 ![quinta](https://github.com/SayansED/python_dicas/blob/main/5.png)
 
-<br>
+</br>
 ![sexta](https://github.com/SayansED/python_dicas/blob/main/6.png)
